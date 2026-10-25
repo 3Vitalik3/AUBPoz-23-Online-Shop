@@ -1,0 +1,10 @@
+/target/
+/data/
+# Old static version kept locally
+/index.html
+/css/
+/js/
+/pages/
+/Видео работы/
+/.idea/
+*.iml
